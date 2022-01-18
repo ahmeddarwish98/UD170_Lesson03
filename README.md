@@ -4,6 +4,7 @@ Intro to Data Analysis lesson 2 resources and code
 https://www.udacity.com/course/intro-to-data-analysis--ud170
 
 Turnstile and Weather Variables
+
      + UNIT -> Remote unit that collects turnstile information. Can collect from multiple banks of turnstiles.
      + Large -> subway stations can have more than one unit.
      + DATEn -> Date in “yyyy­mm­dd” (2011­05­21) format.
