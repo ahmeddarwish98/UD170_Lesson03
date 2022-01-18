@@ -1,2 +1,4 @@
-# UD170_Lesson03
-Intro to Data Analysis lesson 3 resources and code
+# UD170_Lesson02
+Intro to Data Analysis lesson 2 resources and code
+
+https://www.udacity.com/course/intro-to-data-analysis--ud170
